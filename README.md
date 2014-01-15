@@ -1,5 +1,7 @@
 Magic Bracelet
 -------------------------------------------------------------
+![Magic Bracelet](http://www.instructables.com/files/orig/F95/5YJ2/HQDUR5HX/F955YJ2HQDUR5HX.jpg)
+
 Magic Bracelet is a gesture recognition device with Infrared Emitter & Receiver. <br>
 You can control(turn on/off basically) your appliances(such as TV/ air-condition/ <br>
 fan and other types of remote control devices) with gesture movement.<br>
@@ -12,7 +14,7 @@ This is a Sketchbook of Arduino.([How to use Sketchbook](http://www.seeedstudio.
 
 This Sketchbook includes a Magic Bracelet demo and some libraries that included. 
 
-We had an instructable about how to make an Magic Bracelet, for more information, please refer to [Magic Bracelet Instructable]()
+We had an instructable about how to make an Magic Bracelet, for more information, please refer to [Magic Bracelet Instructable](http://www.instructables.com/id/Magic-Bracelet/)
 
 
 <br>
